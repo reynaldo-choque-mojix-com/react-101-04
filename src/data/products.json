@@ -1,0 +1,69 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Homer-movil",
+        "description": "Homer-movil now available for you++.",
+        "keywords": [
+          "simpsons", "homer", "car", "sitcom"
+        ],
+        "image": "homer-mobile.jpg",
+        "age": [
+          "18", "+"
+        ],
+        "price": 19000.00
+      },
+      {
+        "id": 2,
+        "name": "Batmovil",
+        "description": "Nananananana....batman.",
+        "keywords": [
+          "batman", "toy", "exclusive", "requires batteries"
+        ],
+        "image": "bat-mobile.jpg",
+        "age": [
+          "30", "+"
+        ],
+        "price": 138000.50
+      },
+      {
+        "id": 3,
+        "name": "Flintstone car",
+        "description": "Fred's car.",
+        "keywords": [
+          "stone", "fred", "cheap", "Despicable Me"
+        ],
+        "image": "flintstone-car.jpg",
+        "age": [
+          "20", "10"
+        ],
+        "price": 800.99
+      },
+      {
+        "id": 4,
+        "name": "Mr. Burns car",
+        "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "mr-burns-car.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 5,
+        "name": "PeterCopter",
+        "description": "Bob is a short and bald minion with multi-colored eyes (green and brown). He often carries around a teddy bear that he owns called Tim, which is brown with yellow buttoned eyes. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "peter-copter.png",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      }
+    ]
+  }
